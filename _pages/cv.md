@@ -9,33 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Zhen'CV here (Updated: 07/15/2022)](http://academicpages.github.io/files/ZhenLi_CV_2022.pdf)
+[Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Petroleum Engineering, China University of Petroleum, 2013
+* M.S. in Reservior Engineering, China University of Petroleum, 2016
+* Ph.D in Civil and Environmental Engineering, Colorado School of Mines, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Postdoc Research Associate
+  * Lawrence Berkeley National Laboratory / Univeristy of Arizona
+  * Duties included: 
+  * Supervisor: Willam (Bill) Riley, Scott
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
