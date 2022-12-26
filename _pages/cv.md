@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Zhen'CV here (Updated: 07/15/2022)](http://academicpages.github.io/files/ZhenLi_CV_2022.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
