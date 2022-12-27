@@ -10,27 +10,28 @@ redirect_from:
 
 
 <!-- [Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf) -->
+Zhen Li is currently a Postdoc research associate in Lawrence Berkeley National Laboratory. She is currently focusing on modeling terrestrial ecosystems and their interactions with climate and climate change. She has a varied educational background, including degrees in pertroleum engineering, civil and environmental 
+and engineering.
 
 Education
 ======
-* B.S. in Petroleum Engineering, China University of Petroleum, 2013
-* M.S. in Reservior Engineering, China University of Petroleum, 2016
 * Ph.D in Civil and Environmental Engineering, Colorado School of Mines, 2020
+* M.S. in Reservior Engineering, China University of Petroleum, 2016
+* B.S. in Petroleum Engineering, China University of Petroleum, 2013
 
 Work experience
 ======
-* Fall 2020: Postdoc Research Associate
+* Fall 2020 - Current: Postdoc Research Associate
   * Lawrence Berkeley National Laboratory / Univeristy of Arizona
   * Duties included: 
-  * Supervisor: Willam (Bill) Riley, Scott
+  * Supervisor: Dr. Willam (Bill) J. Riley, Dr. Scott Saleska.
+
+* June 2019 - August 2019: Visiting Scholar
+  * Forschungszentrum Jülich GmbH
+  * Conducted field experiments to study the effect of the roughness on soil evaporation
+  * Supervisor: Dr. Jan Vanderborght
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-* Skill 3
 
 Publications
 ======
@@ -53,6 +54,14 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+* Skill 3 -->
 
 <!-- 
 

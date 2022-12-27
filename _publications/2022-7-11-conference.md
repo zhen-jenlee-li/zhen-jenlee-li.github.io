@@ -1,0 +1,15 @@
+---
+title: "Temperature-Controlled Incubations of Swedish Bog Peat: Findings and Modelling Applications"
+collection: publications
+permalink: /publication/2022-7-11-conference
+excerpt: ''
+date: 2022-07-11
+venue: 'Conference'
+paperurl: 'https://conf.goldschmidt.info/goldschmidt/2022/meetingapp.cgi/Paper/12518'
+citation: 'Cory, Alexandra B., Jeffrey P. Chanton, Rachel M. Wilson, Zhen Li, Patrick M. Crill, William J. Riley, and Virginia I. Rich. "Temperature-Controlled Incubations of Swedish Bog Peat: Findings and Modelling Applications." In 2022 Goldschmidt Conference. GOLDSCHMIDT, 2022.'
+---
+Rising temperatures and permafrost thaw are causing significant shifts in peatland carbon (C) cycling dynamics. Given the enormous C stores contained in permafrost peatlands— ~30% of current atmospheric stores—predicting future shifts will be crucial to producing accurate global climate models. To address this need, we quantitatively constrained temperature vs. CO2 and CH4 production relationships in Swedish bog peat overlying permafrost using temperature-controlled incubations. Combining these results with seven years of field CH4 flux measurements (2012-2018), we then assessed the extent to which soil temperature, alongside basic field data (soil density, water table, and active layer depth), allowed accurate prediction of measured CH4 emissions. Since the relationship between CH4 production vs. depth was not well constrained, two assumptions were applied: (a) methane production rate is controlled by temperature from below the water table to the depth of the permafrost; (b) under frozen conditions methane production is assumed to be 0.
+In incubations, CO2 and CH4 production rates increased exponentially with temperature from 1-26°C. Measured field fluxes were distinctly higher for two of the seven years of analysis (years 2016 and 2017)—a trend that was not reflected by modeled values. Excluding these years, our production-based estimates accounted for 64-81% of observed variance in daily, weekly, and monthly fluxes. Collectively these findings indicate that (1) three variables undergoing significant change—temperature, water table, and active layer depth—significantly regulate CH4 fluxes in permafrost peatlands; and (2) temperature-controlled incubations, combined with basic field data, are viable tools for predicting CH4 fluxes. Additional research aimed at better constraining CH4 production vs. depth trends with temperature will facilitate assessment of the two assumptions applied (a and b) while research regarding parameters not considered herein—i.e. porewater geochemistry and microbial community composition—is necessary for explaining the distinctly elevated methane fluxes observed in 2016 and 2017.
+
+
+Recommended citation: Cory, Alexandra B., Jeffrey P. Chanton, Rachel M. Wilson, Zhen Li, Patrick M. Crill, William J. Riley, and Virginia I. Rich. "Temperature-Controlled Incubations of Swedish Bog Peat: Findings and Modelling Applications." In 2022 Goldschmidt Conference. GOLDSCHMIDT, 2022.

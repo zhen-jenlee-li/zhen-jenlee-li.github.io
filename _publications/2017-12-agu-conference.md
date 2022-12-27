@@ -1,0 +1,16 @@
+---
+title: "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil"
+collection: publications
+permalink: /publication/2017-12-agu-conference
+excerpt: ''
+date: 2017-12
+venue: 'AGU Conference'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2017AGUFM.H33B1676L/abstract'
+citation: 'Li, Zhen, and Kathleen M. Smits. "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil." In AGU Fall Meeting Abstracts, vol. 2017, pp. H33B-1676. 2017.'
+---
+Evaporation is the process of mass and heat transfer between the atmosphere and the shallow subsurface, and it is critical to many natural and industrial applications. In arid areas with very little rainfall, gravel has been widely used as a mulch layer to suppress evaporation from the underlying soil. The properties of mulch layers have a significant effect on the evaporation process, and the effect of grain size and mulch thickness has been previously studied experimentally. However, there is debate on the effect of the gravel mulch hydraulic properties on the evaporation suppression and role of the gravel mulch layer just after precipitation has not been discussed. The goal of this work is to investigate in more depth the impact of the gravel mulch hydraulic properties and the thickness of the mulch layer on evaporation from underlying soil with the combination of experiments and theoretical models. For this work, we developed a fully coupled numerical model of layered porous media that solves for heat, liquid water and water vapor flux under both wet and dry soil conditions. Various mulch layers with different texture and thickness were employed in the numerical simulation to study the effect of the hydraulic properties and thickness on the underlying soil evaporation. The water and heat transport in the soil and across the soil-atmosphere interface were presented and analyzed. In addition, results from numerical simulations were also compared with a series of mulch layer experiments performed using bench-scale porous media tanks interfaced with an open-return wind tunnel. Results demonstrated that gravel mulch is effective in significantly delaying and suppressing evaporation from underlying soil, and the evaporation behavior varies from different mulch types and thicknesses. The reason for evaporation suppression is that the gravel mulch retards the evaporation from the underlying soil first, and then cuts the hydraulic connection between the drying front and the atmosphere. The delaying time and evaporation reduction increases with the decrease of the grain size and increase of the air entry value of the gravel mulch, in which the air entry value is the primary factor. Thicker mulch layers have a better performance in both retarding and preventing evaporation from the underlying soil.
+
+
+[Download paper here](https://ui.adsabs.harvard.edu/abs/2017AGUFM.H33B1676L/abstract)
+
+Recommended citation: Li, Zhen, and Kathleen M. Smits. "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil." In AGU Fall Meeting Abstracts, vol. 2017, pp. H33B-1676. 2017.
