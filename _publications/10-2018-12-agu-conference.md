@@ -1,7 +1,7 @@
 ---
 title: "Evaporation Behavior Analysis from Layered Soil and its Application to Estimate the Soil Property Profile"
 collection: publications
-permalink: /publication/2018-12-agu-conference
+permalink: /publication/10-2018-12-agu-conference
 excerpt: ''
 date: 2018-12-01
 venue: 'AGU Conference'

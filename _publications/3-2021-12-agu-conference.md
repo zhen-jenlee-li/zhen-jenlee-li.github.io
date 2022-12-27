@@ -1,7 +1,7 @@
 ---
 title: "Integration of genome-informed microbial traits in ecosystem models reveals divergent methane productions in thawing permafrost"
 collection: publications
-permalink: /publication/2021-12-agu-conference
+permalink: /publication/3-2021-12-agu-conference
 excerpt: ''
 date: 2021-12-01
 venue: 'Conference'

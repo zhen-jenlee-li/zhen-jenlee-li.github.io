@@ -1,7 +1,7 @@
 ---
 title: "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil"
 collection: publications
-permalink: /publication/2017-12-agu-conference
+permalink: /publication/11-2017-12-agu-conference
 excerpt: ''
 date: 2017-12-01
 venue: 'AGU Conference'

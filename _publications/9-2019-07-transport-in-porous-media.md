@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface"
 collection: publications
-permalink: /publication/2019-07-transport-in-porous-media
+permalink: /publication/9-2019-07-transport-in-porous-media
 excerpt: ''
 date: 2019-07-01
 venue: 'Transport in Porous Media'

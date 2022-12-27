@@ -1,7 +1,7 @@
 ---
 title: "Accounting for temperature effects on the performance of soil moisture sensors in sandy soils"
 collection: publications
-permalink: /publication/2019-09-soil-society
+permalink: /publication/8-2019-09-soil-society
 excerpt: ''
 date: 2019-09-01
 venue: 'Soil Science Society of America Journal'

@@ -1,7 +1,7 @@
 ---
 title: "Temperature-Controlled Incubations of Swedish Bog Peat: Findings and Modelling Applications"
 collection: publications
-permalink: /publication/2021-agu-conference2
+permalink: /publication/4-2021-agu-conference2
 excerpt: ''
 date: 2021-12-01
 venue: 'Conference'

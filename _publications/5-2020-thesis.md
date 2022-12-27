@@ -1,7 +1,7 @@
 ---
 title: "Water and heat transport in shallow subsurface soil and across the soil-air interface: simulation, experiments and parameterization"
 collection: publications
-permalink: /publication/2020-thesis
+permalink: /publication/5-2020-thesis
 excerpt: ''
 date: 2020-08-01
 venue: 'Thesis'

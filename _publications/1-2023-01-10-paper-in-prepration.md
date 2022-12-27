@@ -1,7 +1,7 @@
 ---
 title: "Paper in Prepration"
 collection: publications
-permalink: /publication/2023-01-10-paper-in-prepration
+permalink: /publication/1-2023-01-10-paper-in-prepration
 excerpt: 'This paper is about Gnome.'
 date: 2023-01-10
 venue: 'Journal 1'

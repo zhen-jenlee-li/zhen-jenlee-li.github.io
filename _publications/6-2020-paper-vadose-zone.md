@@ -1,7 +1,7 @@
 ---
 title: "The effect of the top soil layer on moisture and evaporation dynamics"
 collection: publications
-permalink: /publication/2020-paper-vadose-zone
+permalink: /publication/6-2020-paper-vadose-zone
 excerpt: ''
 date: 2020-06-03
 venue: 'Vadose Zone'

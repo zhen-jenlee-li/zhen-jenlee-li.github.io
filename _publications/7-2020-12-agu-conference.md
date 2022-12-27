@@ -1,7 +1,7 @@
 ---
 title: "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and Evaluation"
 collection: publications
-permalink: /publication/2020-12-agu-conference
+permalink: /publication/7-2020-12-agu-conference
 excerpt: ''
 date: 2020-12-01
 venue: 'AGU Conference'
