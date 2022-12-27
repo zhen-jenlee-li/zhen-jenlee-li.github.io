@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-[Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)
+<!-- [Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf) -->
 
 Education
 ======
