@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhen Li"
 title_separator          : "-"
 name                     : &name "Zhen Li"
-description              : &description "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL), [CV](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)"
+description              : &description "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
 url                      : https://zhenli22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhenli22/zhenli22.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhen (Jen) Li"
   avatar           : "Zhen-Li-207.jpeg"
-  bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
+  bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL), [CV](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)"
   location         : "Berkeley, CA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
