@@ -3,7 +3,7 @@ title: "Temperature-Controlled Incubations of Swedish Bog Peat: Findings and Mod
 collection: publications
 permalink: /publication/2021-agu-conference2
 excerpt: ''
-date: 2021-12
+date: 2021-12-01
 venue: 'Conference'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2021AGUFM.B33B..02R/abstract'
 citation: 'Riley, William, Kuang-Yu Chang, Zhen Li, and Qing Zhu. "Representing Explicit Microbial and Plant Process in Wetland Biogeochemical Models." In AGU Fall Meeting Abstracts, vol. 2021, pp. B33B-02. 2021.'

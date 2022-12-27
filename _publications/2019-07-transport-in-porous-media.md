@@ -2,8 +2,8 @@
 title: "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface"
 collection: publications
 permalink: /publication/2019-07-transport-in-porous-media
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2019-07
+excerpt: ''
+date: 2019-07-01
 venue: 'Transport in Porous Media'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Li, Zhen, Jan Vanderborght, and Kathleen M. Smits. "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface." Transport in porous media 128, no. 3 (2019): 945-976.'

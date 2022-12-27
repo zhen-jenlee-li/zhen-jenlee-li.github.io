@@ -3,7 +3,7 @@ title: "Accounting for temperature effects on the performance of soil moisture s
 collection: publications
 permalink: /publication/2019-09-soil-society
 excerpt: ''
-date: 2019-09
+date: 2019-09-01
 venue: 'Soil Science Society of America Journal'
 paperurl: 'https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2019.05.0161'
 citation: 'Schwartz, Michelle, Zhen Li, Toshihiro Sakaki, Ali Moradi, and Kathleen Smits. "Accounting for temperature effects on the performance of soil moisture sensors in sandy soils." Soil Science Society of America Journal 83, no. 5 (2019): 1319-1323.'

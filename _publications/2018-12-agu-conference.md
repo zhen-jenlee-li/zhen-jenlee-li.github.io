@@ -3,7 +3,7 @@ title: "Evaporation Behavior Analysis from Layered Soil and its Application to E
 collection: publications
 permalink: /publication/2018-12-agu-conference
 excerpt: ''
-date: 2018-12
+date: 2018-12-01
 venue: 'AGU Conference'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2018AGUFM.H13H1817L/abstract'
 citation: 'Li, Zhen, and Kathleen M. Smits. "Evaporation Behavior Analysis from Layered Soil and its Application to Estimate the Soil Property Profile." In AGU Fall Meeting Abstracts, vol. 2018, pp. H13H-1817. 2018.'

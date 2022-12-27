@@ -3,7 +3,7 @@ title: "Effects of Gravel Mulch Properties and Thickness on Evaporation from Und
 collection: publications
 permalink: /publication/2017-12-agu-conference
 excerpt: ''
-date: 2017-12
+date: 2017-12-01
 venue: 'AGU Conference'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2017AGUFM.H33B1676L/abstract'
 citation: 'Li, Zhen, and Kathleen M. Smits. "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil." In AGU Fall Meeting Abstracts, vol. 2017, pp. H33B-1676. 2017.'

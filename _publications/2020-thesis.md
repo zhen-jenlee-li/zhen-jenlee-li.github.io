@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2020-thesis
 excerpt: ''
-date: 2020-08
+date: 2020-08-01
 venue: 'Thesis'
 paperurl: 'https://repository.mines.edu/bitstream/handle/11124/176311/Li_mines_0052E_12069.pdf?sequence=1&isAllowed=y'
 citation: 'Li, Zhen. "Water and heat transport in shallow subsurface soil and across the soil-air interface: simulation, experiments and parameterization." PhD diss., Colorado School of Mines, 2020'

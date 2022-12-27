@@ -3,7 +3,7 @@ title: "Integration of genome-informed microbial traits in ecosystem models reve
 collection: publications
 permalink: /publication/2021-12-agu-conference
 excerpt: ''
-date: 2021-12
+date: 2021-12-01
 venue: 'Conference'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2021AGUFM.B12D..08L/abstract'
 citation: 'Li, Zhen, William Riley, Eoin Brodie, Nicholas Bouskill, Kuang-Yu Chang, Robert Grant, Ulas Karaoz et al. "Integration of genome-informed microbial traits in ecosystem models reveals divergent methane productions in thawing permafrost." In AGU Fall Meeting Abstracts, vol. 2021, pp. B12D-08. 2021.'

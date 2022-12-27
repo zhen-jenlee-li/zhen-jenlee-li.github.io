@@ -3,7 +3,7 @@ title: "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and E
 collection: publications
 permalink: /publication/2020-12-agu-conference
 excerpt: ''
-date: 2020-12
+date: 2020-12-01
 venue: 'AGU Conference'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2020AGUFMH045...05L/abstract'
 citation: 'Li, Zhen, Jana Schneider, Jan Vanderborght, Jinyun Tang, and Kathleen Smits. "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and Evaluation." In AGU Fall Meeting Abstracts, vol. 2020, pp. H045-05. 2020.'
