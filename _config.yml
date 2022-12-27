@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Zhen (Jen) Li"
   avatar           : "Zhen-Li-207.jpeg"
-  bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL), [CV](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)"
+  bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
   location         : "Berkeley, CA, USA"
+  cv               : http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a9Rt4CMAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Zhen-Li-207"
