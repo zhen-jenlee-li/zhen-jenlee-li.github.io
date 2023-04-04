@@ -54,6 +54,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+* Instructor, EMERGE BII Summer Institute
+* Session co-convener, American Geophysical Union Meeting, 2021
+* Unsaturated zone, committee
 
 
 <!-- Skills
