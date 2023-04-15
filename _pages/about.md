@@ -27,10 +27,9 @@ Work experience
   * Supervisor: Dr. Willam (Bill) J. Riley, Dr. Scott Saleska.
 
 * 2016 - 2020: Research Assistant
- * Colorado School of Mines / University of Texas at Arlinton
- * Duties included:
- * Supervision: Kathleen M. Smits
- * 
+  * Colorado School of Mines / University of Texas at Arlinton
+  * Duties included:
+  * Supervision: Kathleen M. Smits
 * June 2019 - August 2019: Visiting Scholar
   * Forschungszentrum Jülich GmbH
   * Conducted field experiments to study the effect of the roughness on soil evaporation
