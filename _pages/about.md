@@ -10,8 +10,7 @@ redirect_from:
 
 
 <!-- [Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf) -->
-Zhen Li is currently a Postdoc research associate in Lawrence Berkeley National Laboratory. She is currently focusing on modeling terrestrial ecosystems and their interactions with climate and climate change. She has a varied educational background, including degrees in pertroleum engineering, civil and environmental 
-and engineering.
+Zhen (Jen) Li is currently a Postdoc Research Associate focusing on terrestrial ecosystem modeling in Lawrence Berkeley National Laboratory. Her expertise lies in process-based terrestrial ecosystem modeling and coupled soil-microbe-plant-atmosphere interactions. Her interests in cludes water and carbon cycles, permafrost carbon dynamics, land-atmosphere interactions and vadose zone hydrology. Her interest in multidisciplinary research and upscaling drives her to collarborate with  experts from different fields, including microbiologist, biogeochemist and ecologist. She strives to characterize and enhance process-based terrestrail ecosystem models through site-scale modeling and observations, with the goal of improving earth system models. 
 
 Education
 ======
@@ -23,12 +22,9 @@ Work experience
 ======
 * 2020 - Current: Postdoc Research Associate
   * Lawrence Berkeley National Laboratory / Univeristy of Arizona
-  * Duties included: 
   * Supervisor: Dr. Willam (Bill) J. Riley, Dr. Scott Saleska.
-
 * 2016 - 2020: Research Assistant
   * Colorado School of Mines / University of Texas at Arlinton
-  * Duties included:
   * Supervision: Kathleen M. Smits
 * June 2019 - August 2019: Visiting Scholar
   * Forschungszentrum Jülich GmbH
