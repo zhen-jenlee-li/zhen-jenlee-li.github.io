@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Zhen'CV here (Updated: 07/15/2022)](http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf)
+[Download Zhen'CV here (Updated: 07/15/2022)](http://zhen-jenlee-li.github.io/files/ZhenLi_CV_2022.pdf)
 
 Education
 ======

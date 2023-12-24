@@ -11,9 +11,9 @@ title                    : "Zhen Li"
 title_separator          : "-"
 name                     : &name "Zhen Li"
 description              : &description "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
-url                      : https://zhenli22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhen-jenlee-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhenli22/zhenli22.github.io"
+repository               : "zhen-jenlee-li/zhen-jenlee-li.github.io"
 teaser                   :  "Zhen-Li-207.jpeg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "Zhen-Li-207.jpeg"
   bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
   location         : "Berkeley, CA, USA"
-  cv               : http://zhenli22.github.io/files/ZhenLi_CV_2022.pdf
+  cv               : http://zhen-jenlee-li.github.io/files/ZhenLi_CV_2022.pdf
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a9Rt4CMAAAAJ&hl=en"
