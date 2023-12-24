@@ -2,7 +2,7 @@
 title: "Paper in Prepration"
 collection: publications
 #permalink: /publication/1-2023-01-10-paper-in-prepration
-excerpt: 'This paper is about Genome.'
+excerpt: 'Soil incubation methods lead to large differences in inferred methane production temperature sensitivity.'
 date: 2023-01-10
 venue: 'Journal 1'
 # paperurl: 'NA'
