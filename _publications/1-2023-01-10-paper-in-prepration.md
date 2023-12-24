@@ -2,7 +2,7 @@
 title: "Paper in Prepration"
 collection: publications
 permalink: /publication/1-2023-01-10-paper-in-prepration
-excerpt: 'This paper is about Gnome.'
+excerpt: 'This paper is about Genome.'
 date: 2023-01-10
 venue: 'Journal 1'
 paperurl: 'NA'
