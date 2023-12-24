@@ -2,7 +2,7 @@
 title: "Soil incubation methods lead to large differences in inferred methane production temperature sensitivity"
 collection: publications
 permalink: /publication/1-2023-01-10-paper-in-prepration
-excerpt: 'Soil incubation methods lead to large differences in inferred methane production temperature sensitivity.'
+excerpt: '**Zhen Li**, Robert F. Grant, Kuang-Yu Chang, Suzanne B. Hodgkins, Jinyun Tang, Alexandra Cory, Zelalem A. Mekonnen, Scott R. Saleska, Eoin L. Brodie, Ruth K. Varner, Virginia I. Rich, Rachel M. Wilson, Jeff P. Chanton, Patrick Crill, William J. Riley'
 # date: 2023-01-10
 # venue: 'Submitted'
 # paperurl: 'NA'
@@ -10,6 +10,6 @@ excerpt: 'Soil incubation methods lead to large differences in inferred methane 
 ---
 **Soil incubation methods lead to large differences in inferred methane production temperature sensitivity**
 
-**Zhen Li**, Robert F. Grant, Kuang-Yu Chang, Suzanne B. Hodgkins, Jinyun Tang, Alexandra Cory, Zelalem A. Mekonnen, Scott R. Saleska, Eoin L. Brodie, Ruth K. Varner, Virginia I. Rich, Rachel M. Wilson, Jeff P. Chanton, Patrick Crill, William J. Riley
-<i>submitted<i>
+
+<!-- <i>submitted<i> -->
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
