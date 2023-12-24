@@ -62,6 +62,10 @@ Publication Second
 ======
 
 
+Training
+======
+
+
 <!-- Skills
 ======
 * Skill 1
