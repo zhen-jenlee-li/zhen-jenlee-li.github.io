@@ -3,8 +3,8 @@ title: "Paper in Prepration"
 collection: publications
 #permalink: /publication/1-2023-01-10-paper-in-prepration
 excerpt: 'Soil incubation methods lead to large differences in inferred methane production temperature sensitivity.'
-date: 2023-01-10
-venue: 'Journal 1'
+# date: 2023-01-10
+# venue: 'Submitted'
 # paperurl: 'NA'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
