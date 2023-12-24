@@ -1,5 +1,5 @@
 ---
-title: "In Review/Revision"
+title: "Soil incubation methods lead to large differences in inferred methane production temperature sensitivity"
 collection: publications
 permalink: /publication/1-2023-01-10-paper-in-prepration
 excerpt: 'Soil incubation methods lead to large differences in inferred methane production temperature sensitivity.'
