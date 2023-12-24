@@ -1,5 +1,5 @@
 ---
-permalink: /publication/about
+permalink: /publications
 # collection: publications
 title: "about"
 # excerpt: "About me"
