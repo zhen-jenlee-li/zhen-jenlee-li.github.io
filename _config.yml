@@ -14,7 +14,7 @@ description              : &description "Postdoc Research Associate in Lawrence 
 url                      : https://zhen-jenlee-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhen-jenlee-li/zhen-jenlee-li.github.io"
-teaser                   :  "zhenli-photo.JPG"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "zhenli-square.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhen (Jen) Li"
-  avatar           : "zhenli-square.JPG"
+  avatar           : "zhenli-square.png"
   bio              : "Postdoc Research Associate in Lawrence Berkeley National Lab (LBNL)"
   location         : "Berkeley, CA, USA"
   cv               : 
