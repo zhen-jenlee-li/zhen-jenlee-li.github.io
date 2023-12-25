@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Evaporation Behavior Analysis from Layered Soil and its Application to Estimate the Soil Property Profile"
 collection: publications
 permalink: /publication/10-2018-12-agu-conference
@@ -13,4 +13,4 @@ Soil evaporation plays a key role in the water cycle and energy cycle. In additi
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2018AGUFM.H13H1817L/abstract)
 
-Recommended citation: Li, Zhen, and Kathleen M. Smits. "Evaporation Behavior Analysis from Layered Soil and its Application to Estimate the Soil Property Profile." In AGU Fall Meeting Abstracts, vol. 2018, pp. H13H-1817. 2018.
+Recommended citation: Li, Zhen, and Kathleen M. Smits. "Evaporation Behavior Analysis from Layered Soil and its Application to Estimate the Soil Property Profile." In AGU Fall Meeting Abstracts, vol. 2018, pp. H13H-1817. 2018. -->

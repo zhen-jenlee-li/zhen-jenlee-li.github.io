@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and Evaluation"
 collection: publications
 permalink: /publication/7-2020-12-agu-conference
@@ -13,4 +13,4 @@ The bare-soil evaporation formulation, which is normally characterized by a soil
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2020AGUFMH045...05L/abstract)
 
-Recommended citation: Li, Zhen, Jana Schneider, Jan Vanderborght, Jinyun Tang, and Kathleen Smits. "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and Evaluation." In AGU Fall Meeting Abstracts, vol. 2020, pp. H045-05. 2020.
+Recommended citation: Li, Zhen, Jana Schneider, Jan Vanderborght, Jinyun Tang, and Kathleen Smits. "A Dry Surface Layer Based Bare Soil Evaporation Model: Development and Evaluation." In AGU Fall Meeting Abstracts, vol. 2020, pp. H045-05. 2020. -->

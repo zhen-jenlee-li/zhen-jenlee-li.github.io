@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Accounting for temperature effects on the performance of soil moisture sensors in sandy soils"
 collection: publications
 permalink: /publication/8-2019-09-soil-society
@@ -16,4 +16,4 @@ Capacitance sensors are widely used to monitor volumetric water content in both 
 
 [Download paper here](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2019.05.0161)
 
-Recommended citation: Schwartz, Michelle, Zhen Li, Toshihiro Sakaki, Ali Moradi, and Kathleen Smits. "Accounting for temperature effects on the performance of soil moisture sensors in sandy soils." Soil Science Society of America Journal 83, no. 5 (2019): 1319-1323.
+Recommended citation: Schwartz, Michelle, Zhen Li, Toshihiro Sakaki, Ali Moradi, and Kathleen Smits. "Accounting for temperature effects on the performance of soil moisture sensors in sandy soils." Soil Science Society of America Journal 83, no. 5 (2019): 1319-1323. -->

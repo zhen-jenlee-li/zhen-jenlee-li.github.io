@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "The effect of the top soil layer on moisture and evaporation dynamics"
 collection: publications
 permalink: /publication/2-2020-paper-vadose-zone
@@ -12,4 +12,4 @@ Understanding the effect of the top soil layer on surface evaporation and water 
 
 [Download paper here](https://acsess.onlinelibrary.wiley.com/doi/pdf/10.1002/vzj2.20049)
 
-Recommended citation: Li, Zhen, Jan Vanderborght, and Kathleen M. Smits. "The effect of the top soil layer on moisture and evaporation dynamics." Vadose Zone Journal 19, no. 1 (2020): e20049.
+Recommended citation: Li, Zhen, Jan Vanderborght, and Kathleen M. Smits. "The effect of the top soil layer on moisture and evaporation dynamics." Vadose Zone Journal 19, no. 1 (2020): e20049. -->

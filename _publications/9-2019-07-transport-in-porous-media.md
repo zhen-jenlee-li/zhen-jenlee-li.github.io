@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface"
 collection: publications
 permalink: /publication/9-2019-07-transport-in-porous-media
@@ -12,4 +12,4 @@ Soil water evaporation plays a critical role in mass and energy exchanges across
 
 [Download paper here](https://link.springer.com/article/10.1007/s11242-018-1144-9)
 
-Recommended citation: Li, Zhen, Jan Vanderborght, and Kathleen M. Smits. "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface." Transport in porous media 128, no. 3 (2019): 945-976.
+Recommended citation: Li, Zhen, Jan Vanderborght, and Kathleen M. Smits. "Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface." Transport in porous media 128, no. 3 (2019): 945-976. -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil"
 collection: publications
 permalink: /publication/11-2017-12-agu-conference
@@ -13,4 +13,4 @@ Evaporation is the process of mass and heat transfer between the atmosphere and 
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2017AGUFM.H33B1676L/abstract)
 
-Recommended citation: Li, Zhen, and Kathleen M. Smits. "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil." In AGU Fall Meeting Abstracts, vol. 2017, pp. H33B-1676. 2017.
+Recommended citation: Li, Zhen, and Kathleen M. Smits. "Effects of Gravel Mulch Properties and Thickness on Evaporation from Underlying Soil." In AGU Fall Meeting Abstracts, vol. 2017, pp. H33B-1676. 2017. -->

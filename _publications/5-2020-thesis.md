@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Water and heat transport in shallow subsurface soil and across the soil-air interface: simulation, experiments and parameterization"
 collection: publications
 permalink: /publication/5-2020-thesis
@@ -54,4 +54,4 @@ for environmental, agricultural, and engineering fields.
 
 [Download paper here](https://repository.mines.edu/bitstream/handle/11124/176311/Li_mines_0052E_12069.pdf?sequence=1&isAllowed=y)
 
-Recommended citation: Li, Zhen. "Water and heat transport in shallow subsurface soil and across the soil-air interface: simulation, experiments and parameterization." PhD diss., Colorado School of Mines, 2020.
+Recommended citation: Li, Zhen. "Water and heat transport in shallow subsurface soil and across the soil-air interface: simulation, experiments and parameterization." PhD diss., Colorado School of Mines, 2020. -->
