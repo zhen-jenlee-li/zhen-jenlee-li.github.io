@@ -35,6 +35,8 @@ Work experience
 
 Publications
 ======
+* In Preparation
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -115,3 +117,27 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+
+
+<!-- Education
+======
+* Ph.D in Civil and Environmental Engineering, Colorado School of Mines, 2020
+* M.S. in Reservior Engineering, China University of Petroleum, 2016
+* B.S. in Petroleum Engineering, China University of Petroleum, 2013 -->
+
+<!-- ---
+title: "Soil incubation methods lead to large differences in inferred methane production temperature sensitivity"
+collection: publications
+permalink: /publication/1-2023-01-10-paper-in-prepration
+excerpt: '**Zhen Li**, Robert F. Grant, Kuang-Yu Chang, Suzanne B. Hodgkins, Jinyun Tang, Alexandra Cory, Zelalem A. Mekonnen, Scott R. Saleska, Eoin L. Brodie, Ruth K. Varner, Virginia I. Rich, Rachel M. Wilson, Jeff P. Chanton, Patrick Crill, William J. Riley (in-review)'
+date: 'N/A'
+venue: 'Submitted'
+# paperurl: 'NA'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+in-review -->
+
+<!-- <i>submitted<i> -->
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->

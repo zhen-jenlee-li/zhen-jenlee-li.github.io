@@ -2,10 +2,8 @@
 main:
   # - title: "CV"
   #   url: /cv/
-  - title: "Publications"
-    url: /self_publications/
 
-  - title: "Publications_x"
+  - title: "Publications"
     url: /publications/
 
   - title: "Talks"
