@@ -228,6 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _selfpublications
+  - scope:
+      path: ""
+      type: self_publications
   # _portfolio
   - scope:
       path: ""
