@@ -28,7 +28,6 @@ Work experience
   * Supervision: Kathleen M. Smits
 
 
-
 Publications
 ======
 * **In Review/Revision**
@@ -69,7 +68,6 @@ Publications
     _International Journal of Coal Geology (2015)_ [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0166516215300057)
 
     _
-
 
 
   <!-- <ul>{% for post in site.publications %}
