@@ -26,10 +26,6 @@ Work experience
 * 2016 - 2020: Research Assistant
   * Colorado School of Mines / University of Texas at Arlinton
   * Supervision: Kathleen M. Smits
-* June 2019 - August 2019: Visiting Scholar
-  * Forschungszentrum Jülich GmbH
-  * Conducted field experiments to study the effect of the roughness on soil evaporation
-  * Supervisor: Dr. Jan Vanderborght
 
 
 
@@ -66,20 +62,19 @@ Publications
     _Transport in porous media (2019)_ [[HTML]](https://link.springer.com/article/10.1007/s11242-018-1144-9)
 
 
+  * **Oil adsorption in shale nanopores and its effect on recoverable oil-in-place**
+
+    Wang, Sen, Feng, Qihong, Javadpour, Farzam, Xia, Tian, <ins>Li, Zhen</ins>.
+
+    _International Journal of Coal Geology (2015)_ [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0166516215300057)
+
+    _
 
 
 
-
-
-
-
-
-
-
-
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
@@ -100,12 +95,13 @@ Service and leadership
 * Unsaturated zone, committee
 
 
-Publication Second
-======
-
-
 Training
 ======
+
+* June 2019 - August 2019: Visiting Scholar
+  * Forschungszentrum Jülich GmbH
+  * Conducted field experiments to study the effect of the roughness on soil evaporation
+  * Supervisor: Dr. Jan Vanderborght
 
 
 <!-- Skills
