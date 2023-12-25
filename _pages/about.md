@@ -33,7 +33,7 @@ Work experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -58,7 +58,7 @@ Training
 * June 2019 - August 2019: Visiting Scholar
   * Forschungszentrum Jülich GmbH
   * Conducted field experiments to study the effect of the roughness on soil evaporation
-  * Supervisor: Dr. Jan Vanderborght
+  * Supervisor: Dr. Jan Vanderborght -->
 
 
 <!-- Skills
