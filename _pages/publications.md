@@ -1,6 +1,6 @@
 ---
-permalink: /pubs/
-title: "Pubs"
+permalink: /publications/
+title: "Publications"
 ---
 
 * **In Review/Revision**
