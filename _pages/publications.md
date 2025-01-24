@@ -11,7 +11,7 @@ title: "Publications"
 
   * **On the relationship between methane production in anaerobic incubations of peat materials and in-situ methane emissions**
 
-    Alexandra B. Cory, Rachel M. Wilson1, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton
+    Alexandra B. Cory, Rachel M. Wilson, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton
 
   * **Unraveling the Depth-Dependent Causal Dynamics of Methanogenesis and Methanotrophy in a High-Latitude Fen Peatland**
 
@@ -21,7 +21,7 @@ title: "Publications"
 
   * **Microbial Ecology of Permafrost Soils: Populations, Processes, and Perspectives**
 
-    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes (2025)
+    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_(2025)
 
   * **Soil incubation methods lead to large differences in inferred methane production temperature sensitivity**
   
