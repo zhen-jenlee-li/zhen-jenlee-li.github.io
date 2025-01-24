@@ -9,7 +9,7 @@ title: "Publications"
 
     <ins>Li, Zhen </ins> , Riley, William J., Marschmann, Gianna L., Karaoz, Ulas, Shirley, Ian A., Wu, Qiong, Bouskill, Nicholas J., Chang, Kuang-Yu, Crill, Patrick M., Grant, Robert F., King, Eric, Saleska, Scott R., Sullivan, Matthew B., Tang, Jinyun, Varner, Ruth K., Woodcroft, Ben J., Wrighton, Kelly C., EMERGE Coordinators, Brodie, Eoin L. [[HTML]](https://www.researchgate.net/publication/384248479_A_framework_for_integrating_genomics_microbial_traits_and_ecosystem_biogeochemistry)
 
-    **On the relationship between methane production in anaerobic incubations of peat materials and in-situ methane emissions**
+    * **On the relationship between methane production in anaerobic incubations of peat materials and in-situ methane emissions**
 
     Alexandra B. Cory, Rachel M. Wilson1, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton
 
