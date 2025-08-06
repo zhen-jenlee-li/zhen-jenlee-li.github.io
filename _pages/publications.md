@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<* **In Review/Revision**>
-
 * **Published**
 
   * **A framework for integrating genomics, microbial traits, and ecosystem biogeochemistry**
@@ -13,7 +11,7 @@ title: "Publications"
     
   * **On the relationship between methane production in anaerobic incubations of peat materials and in-situ methane emissions**
 
-    Alexandra B. Cory, Rachel M. Wilson, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton (2025)
+    Alexandra B. Cory, Rachel M. Wilson, Olivia C. Ogles, Patrick M. Crill, **Zhen Li**, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton (2025)
     _Journal of Geophysical Research: Biogeosciences_ [[HTML]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JG008371)
 
   * **Unraveling the Depth-Dependent Causal Dynamics of Methanogenesis and Methanotrophy in a High-Latitude Fen Peatland**
