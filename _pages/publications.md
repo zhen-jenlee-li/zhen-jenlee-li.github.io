@@ -22,7 +22,7 @@ title: "Publications"
 
   * **Microbial Ecology of Permafrost Soils: Populations, Processes, and Perspectives**
 
-    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_ (2025) [[HTML]] (https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.2264)
+    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_ (2025) [[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.2264)
 
   * **Soil incubation methods lead to large differences in inferred methane production temperature sensitivity**
   
