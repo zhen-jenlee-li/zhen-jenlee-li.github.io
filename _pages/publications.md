@@ -9,19 +9,20 @@ title: "Publications"
 
   * **A framework for integrating genomics, microbial traits, and ecosystem biogeochemistry**
 
-    <ins>Li, Zhen </ins> , Riley, William J., Marschmann, Gianna L., Karaoz, Ulas, Shirley, Ian A., Wu, Qiong, Bouskill, Nicholas J., Chang, Kuang-Yu, Crill, Patrick M., Grant, Robert F., King, Eric, Saleska, Scott R., Sullivan, Matthew B., Tang, Jinyun, Varner, Ruth K., Woodcroft, Ben J., Wrighton, Kelly C., EMERGE Coordinators, Brodie, Eoin L. _Nature Communications_ [[HTML]](https://www.nature.com/articles/s41467-025-57386-5)
+    <ins>Li, Zhen </ins> , Riley, William J., Marschmann, Gianna L., Karaoz, Ulas, Shirley, Ian A., Wu, Qiong, Bouskill, Nicholas J., Chang, Kuang-Yu, Crill, Patrick M., Grant, Robert F., King, Eric, Saleska, Scott R., Sullivan, Matthew B., Tang, Jinyun, Varner, Ruth K., Woodcroft, Ben J., Wrighton, Kelly C., EMERGE Coordinators, Brodie, Eoin L. (2025) _Nature Communications_ [[HTML]](https://www.nature.com/articles/s41467-025-57386-5)
     
   * **On the relationship between methane production in anaerobic incubations of peat materials and in-situ methane emissions**
 
-    Alexandra B. Cory, Rachel M. Wilson, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton [[HTML]] (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JG008371)
+    Alexandra B. Cory, Rachel M. Wilson, Olivia C. Ogles, Patrick M. Crill, <ins>Zhen Li</ins>, Kuang-Yu Chang, Samantha H. Bosman, EMERGE Project Coordinators, Isogenie Field Team, Virginia I. Rich, and Jeffrey P. Chanton (2025)
+    _Journal of Geophysical Research: Biogeosciences_ [[HTML]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JG008371)
 
   * **Unraveling the Depth-Dependent Causal Dynamics of Methanogenesis and Methanotrophy in a High-Latitude Fen Peatland**
 
-    Shuai Yang, Jinyun Tang, <ins>Zhen Li</ins>, Kunxiaojia Yuan, Qiong Wu, Kuang-Yu Chang, Suzanne Hodgkins, Rachel M. Wilson, Qing Zhu, Robert Grant, William J. Riley, Scott Saleska, Virginia I. Rich, Ruth K. Varner. _Environmental Research Letters_(2025) [[HTML]](https://iopscience.iop.org/article/10.1088/1748-9326/adaf44/meta)
+    Shuai Yang, Jinyun Tang, <ins>Zhen Li</ins>, Kunxiaojia Yuan, Qiong Wu, Kuang-Yu Chang, Suzanne Hodgkins, Rachel M. Wilson, Qing Zhu, Robert Grant, William J. Riley, Scott Saleska, Virginia I. Rich, Ruth K. Varner. (2025) _Environmental Research Letters_ [[HTML]](https://iopscience.iop.org/article/10.1088/1748-9326/adaf44/meta)
 
   * **Microbial Ecology of Permafrost Soils: Populations, Processes, and Perspectives**
 
-    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_(2025)
+    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_ (2025) [[HTML]] (https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.2264)
 
   * **Soil incubation methods lead to large differences in inferred methane production temperature sensitivity**
   
@@ -30,9 +31,7 @@ title: "Publications"
     
   * **The effect of the top soil layer on moisture and evaporation dynamics**
 
-    <ins>Li, Zhen</ins>, Jan Vanderborght, and Kathleen M. Smits.
-   
-    _Vadose Zone Journal (2020)_ [[HTML]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20049).
+    <ins>Li, Zhen</ins>, Jan Vanderborght, and Kathleen M. Smits. _Vadose Zone Journal (2020)_ [[HTML]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20049).
   
   * **Accounting for temperature effects on the performance of soil moisture sensors in sandy soils** 
 
