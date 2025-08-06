@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-* **In Review/Revision**
+<* **In Review/Revision**>
 
 * **Published**
 
