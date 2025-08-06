@@ -20,7 +20,7 @@ title: "Publications"
 
   * **Microbial Ecology of Permafrost Soils: Populations, Processes, and Perspectives**
 
-    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., **Zhen Li**, ... and T. C. Onstott. _Permafrost and Periglacial Processes_ (2025) [[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.2264)
+    Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., **Zhen Li**, ... and T. C. Onstott. (2025) _Permafrost and Periglacial Processes_  [[HTML]](https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.2264)
 
   * **Soil incubation methods lead to large differences in inferred methane production temperature sensitivity**
   
@@ -28,7 +28,7 @@ title: "Publications"
     
   * **The effect of the top soil layer on moisture and evaporation dynamics**
 
-    **Zhen Li, Jan Vanderborght, and Kathleen M. Smits. _Vadose Zone Journal (2020)_ [[HTML]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20049).
+    **Zhen Li, Jan Vanderborght, and Kathleen M. Smits. (2020) _Vadose Zone Journal _ [[HTML]](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/vzj2.20049).
   
   * **Accounting for temperature effects on the performance of soil moisture sensors in sandy soils** 
 
@@ -36,11 +36,11 @@ title: "Publications"
 
   * **Evaluation of model concepts to describe water transport in shallow subsurface soil and across the soil–air interface** 
     
-    ** Zhen Li**, Jan Vanderborght, and Kathleen M. Smits._Transport in porous media (2019)_ [[HTML]](https://link.springer.com/article/10.1007/s11242-018-1144-9)
+    ** Zhen Li**, Jan Vanderborght, and Kathleen M. Smits. (2019) _Transport in porous media _ [[HTML]](https://link.springer.com/article/10.1007/s11242-018-1144-9)
 
 
   * **Oil adsorption in shale nanopores and its effect on recoverable oil-in-place**
 
-    Wang Sen, Feng Qihong, Javadpour Farzam, Xia Tian, ** Zhen Li**. _International Journal of Coal Geology (2015)_ [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0166516215300057)
+    Wang Sen, Feng Qihong, Javadpour Farzam, Xia Tian, ** Zhen Li**. (2015) _International Journal of Coal Geology _ [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0166516215300057)
 
 <!-- https://jayrobwilliams.com/posts/2020/08/website-content/ -->
