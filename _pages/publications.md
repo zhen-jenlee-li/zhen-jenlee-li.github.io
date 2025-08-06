@@ -19,6 +19,10 @@ title: "Publications"
 
 * **Published**
 
+  * **A framework for integrating genomics, microbial traits, and ecosystem biogeochemistry**
+
+    <ins>Li, Zhen </ins> , Riley, William J., Marschmann, Gianna L., Karaoz, Ulas, Shirley, Ian A., Wu, Qiong, Bouskill, Nicholas J., Chang, Kuang-Yu, Crill, Patrick M., Grant, Robert F., King, Eric, Saleska, Scott R., Sullivan, Matthew B., Tang, Jinyun, Varner, Ruth K., Woodcroft, Ben J., Wrighton, Kelly C., EMERGE Coordinators, Brodie, Eoin L._Nature Communications_ [[HTML]](https://www.nature.com/articles/s41467-025-57386-5)
+
   * **Microbial Ecology of Permafrost Soils: Populations, Processes, and Perspectives**
 
     Mark P. Waldrop, Jessica Gilman Ernakovich, Tatiana A. Vishnivetskaya, Sean R. Schaefer, Rachel Mackelprang, Jiri Barta, ..., Zhen Li, ... and T. C. Onstott. _Permafrost and Periglacial Processes_(2025)
