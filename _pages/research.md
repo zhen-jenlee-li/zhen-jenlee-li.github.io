@@ -2,4 +2,4 @@
 permalink: /research/
 title: "Research"
 ---
-"zhenli-square.png"
+ avatar           : "zhenli-square.png"
