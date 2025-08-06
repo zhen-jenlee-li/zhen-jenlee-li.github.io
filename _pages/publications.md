@@ -38,9 +38,4 @@ title: "Publications"
     
     **Zhen Li**, Jan Vanderborght, and Kathleen M. Smits (2019). _Transport in porous media _ [[HTML]](https://link.springer.com/article/10.1007/s11242-018-1144-9)
 
-
-  * **Oil adsorption in shale nanopores and its effect on recoverable oil-in-place**
-
-    Wang Sen, Feng Qihong, Javadpour Farzam, Xia Tian, **Zhen Li** (2015). _International Journal of Coal Geology _ [[HTML]](https://www.sciencedirect.com/science/article/abs/pii/S0166516215300057)
-
 <!-- https://jayrobwilliams.com/posts/2020/08/website-content/ -->
