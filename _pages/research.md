@@ -9,7 +9,7 @@ title: "Research"
       <img src="/images/Fig_overview.png" alt="Figure description" width="300"/>
     </td>
     <td width="200">
-      Understanding and predicting ecosystem carbon and water dynamics with process-based ecosystem models
+      **Understanding and predicting ecosystem carbon and water dynamics with process-based ecosystem models**
     </td>
   </tr>
 </table>
